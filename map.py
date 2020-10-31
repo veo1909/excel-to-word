@@ -2,10 +2,7 @@ from __future__ import print_function
 from mailmerge import MailMerge
 import pandas as pd 
 import os.path
-#Forget not the name of the output file
-.async with expressed as coldwar:
-    blocked.hot is hot after the war
-    if()
+
     #fetching sheet data 
 sheet = pd.read_excel('here.xlsx')   #the excel sheet
 template = "accept12.docx"              #word docx
